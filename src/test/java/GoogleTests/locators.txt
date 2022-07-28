@@ -1,0 +1,18 @@
+Абсолютный локатор
+.//html//body//table//tr//td//
+Относительный локатор
+
+Краткий однозначный локатор
+
+
+//input[@type='text']
+
+//input[@class='gNO89b']
+
+//input[@name='btnK' and @type='submit']
+
+
+//div[@jsname='VlcLAe']/center[1]/input[1]
+
+//img[@class='lnXdpd' and @alt='Google']
+

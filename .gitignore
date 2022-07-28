@@ -1,0 +1,8 @@
+.allure
+.idea
+./idea/*
+.build
+target/
+*.log
+*.iml
+*.jar
